@@ -22,7 +22,7 @@
 ### FrontEnd Languages/Frameworks:
 
 <p align="justify">
-    <img src="./icons/javascript-logo-svg.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./icons/javascript-logo-svg.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
     <img src="./icons/react-logo-svg.svg" alt="React" width="40" height="40"/>&nbsp;
     <img src="./icons/sass-logo-svg.svg" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="./icons/bootstrap-logo-svg.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
