@@ -1,4 +1,4 @@
-![alt text](https://github.com/jesus-cano-ortega/jesus-cano-ortega/blob/main/img/background-cut-image.jpg)
+![alt text]<img src="./img/background-cut-image.jpg" alt="Header Image">
 
 ## About Me
 
