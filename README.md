@@ -1,12 +1,18 @@
-![alt text]<img src="./img/background-cut-image.jpg" alt="Header Image">
+<img src="./img/background-cut-image.jpg" alt="Header Image">
 
 ## About Me
 
-<p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt purus eu euismod malesuada. Praesent tincidunt, ligula non tincidunt euismod, mi metus tristique sem, quis tristique magna erat eget nisi. Ut ac ligula in lacus posuere volutpat ac sit amet erat. Phasellus ullamcorper eleifend arcu vel convallis. Aenean justo enim, sollicitudin ut placerat in, aliquam non eros. Nunc sollicitudin elit neque, ut dictum quam bibendum sit amet. Morbi at velit eget magna fermentum rhoncus nec laoreet dolor.</p>
+<p align="justify">Hi there! I'm Jesús Cano, a product designer and a user experience enthusiast, who has decided to jump into full stack development. For 16 weeks I will be training as a developer at the 4Geeks Academy Spain bootcamp, where I will learn some of the most demanded technologies in the market such as: JavaScript, React and Python.
+</p>
 
-<p align="justify">Aenean suscipit vel purus vitae faucibus. Maecenas id velit blandit, faucibus neque a, facilisis nisl. Donec sit amet congue turpis. Donec tristique metus sed tincidunt consequat. In blandit pellentesque est ut dignissim. Sed ut nibh elit. Suspendisse potenti. Mauris pharetra orci at consequat dapibus. Cras eget est finibus nulla rhoncus ultrices ac ut felis.</p>
+- <p align="justify">UX and Design Skills: user research, information architecture, user experience, visual design and interface design, wireframing, rapid prototyping, SEO (Web) & ASO (App).
+</p>
 
-<p align="justify">Sed facilisis urna vitae semper hendrerit. Aenean pretium dui sit amet nibh tempor pharetra. Nullam gravida vitae risus eu cursus. Morbi iaculis, ex at pharetra ultricies, sem lectus mollis felis, et fermentum magna orci nec odio. Aliquam erat volutpat. Fusce nec hendrerit sem, vitae convallis libero. Nulla cursus libero ut pharetra placerat. Donec tincidunt, lorem nec sollicitudin convallis, diam dolor volutpat libero, sed commodo tellus lectus in ex. Proin eleifend, ligula eu facilisis molestie, enim nibh sollicitudin augue, eu mattis eros lectus eget ante.</p>
+- <p align="justify">Programming Skills: | Frontend: HTML5, CSS3, Sass, Bootstrap, Webpack, JavaScript, ReactJS and React Native | Backend: Python, Flask, NodeJS, MySQL DB, API Rest | Version Control: Git and GitHub.</p>
+
+- <p align="justify">Management Skills: direction and project management, time, scope and cost in traditional methodologies (pmbok) and agile methodologies (scrum).</p>
+
+- <p align="justify">Personal Skills (Soft Skills): hybrid profile (design and engineering), team player, creative storyteller, problem solving, critical thinker (and open to criticism).</p>
 
 ## My Skills
 
