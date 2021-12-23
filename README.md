@@ -17,7 +17,7 @@
 ## My Skills
 
 <p align="justify">
-    <img src="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega" alt="GitHub Stats" width="400" height="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega" alt="GitHub Stats" width="400">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-cano-ortega&layout=compact&card_width=275&hide=c,meson,makefile,python,m4" alt="cheesits456's Top Languages" align="right" width="330">
 </p> 
 
