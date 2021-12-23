@@ -21,8 +21,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&layout=compact" alt="Top Languages">
 </div> -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&theme=tokyonight)
+<div>
+    <a href="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega&theme=tokyonight">
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega&count_private=true&show_icons=true&theme=tokyonight" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&hide=php&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&hide=php&theme=tokyonight" />
+    </a>
+</div>
 
 ### Frontend Languages/Frameworks:
 
