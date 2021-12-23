@@ -16,18 +16,10 @@
 
 ## My Skills
 
-<!-- <p align="justify">
+<p align="justify">
     <img src="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega" alt="GitHub Stats" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&layout=compact" alt="Top Languages" width="400">
-</p> -->
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-cano-ortega&repo=github-readme-stats" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-cano-ortega&repo=convoychat" />
-</a>
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&layout=compact" alt="Top Languages" width="410">
+</p> 
 
 ### Frontend Languages/Frameworks:
 
