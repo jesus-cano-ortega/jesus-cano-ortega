@@ -18,7 +18,7 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega" alt="GitHub Stats"> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&layout=compact" alt="Top Languages"> -->
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=jesus-cano-ortega&layout=compact&card_width=275&hide=c,meson,makefile,shell,dockerfile,m4" alt="cheesits456's Top Languages" align="right" width="330">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-cano-ortega&layout=compact&card_width=275&hide=c,meson,makefile,shell,dockerfile,m4" alt="Top Languages" align="right" width="330">
 
 ![cheesits456's GitHub Stats][github-stats-img]
 
