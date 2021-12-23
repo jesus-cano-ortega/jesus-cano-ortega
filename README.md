@@ -16,10 +16,12 @@
 
 ## My Skills
 
-<img src="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&layout=compact" alt="Top Languages">
+<p align="justify">
+    <img src="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega" alt="GitHub Stats" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&layout=compact" alt="Top Languages" width="400">
+</p>
 
-### FrontEnd Languages/Frameworks:
+### Frontend Languages/Frameworks:
 
 <p align="justify">
     <img src="./icons/javascript-logo-svg.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
@@ -30,7 +32,7 @@
     <img src="./icons/html-logo-svg.svg" alt="HTML5" width="40" height="40"/>
 </p>
 
-### BackEnd Languages/Frameworks:
+### Backend Languages/Frameworks:
 
 <p align="justify">
     <img src="./icons/python-logo-svg.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
