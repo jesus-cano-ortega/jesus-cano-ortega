@@ -21,10 +21,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&layout=compact" alt="Top Languages" width="400">
 </p> -->
 
-<a href="https://github.com/jesus-cano-ortega/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-cano-ortega&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/jesus-cano-ortega/convoychat">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-cano-ortega&repo=convoychat" />
 </a>
 
