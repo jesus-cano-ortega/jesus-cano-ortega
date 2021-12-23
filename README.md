@@ -29,6 +29,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&hide=php&theme=tokyonight" />
     </a>
 </div>
+<br>
 
 ### Frontend Languages/Frameworks:
 
