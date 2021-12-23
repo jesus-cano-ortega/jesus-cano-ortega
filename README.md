@@ -16,10 +16,13 @@
 
 ## My Skills
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&layout=compact" alt="Top Languages">
-</div>
+</div> -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&theme=tokyonight)
 
 ### Frontend Languages/Frameworks:
 
