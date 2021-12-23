@@ -33,9 +33,9 @@
 ### BackEnd Languages/Frameworks:
 
 <p align="justify">
-    <img src="./icons/python-logo-svg.svg" alt="Python" width="40" height="40"/>
-    <img src="./icons/flask-logo-svg.svg" alt="Flask" width="40" height="40"/>
-    <img src="./icons/nodejs-logo-svg.svg" alt="NodeJs" width="40" height="40"/>
+    <img src="./icons/python-logo-svg.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./icons/flask-logo-svg.svg" alt="Flask" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./icons/nodejs-logo-svg.svg" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
     <img src="./icons/mysql-logo-svg.svg" alt="MySQL" width="40" height="40"/>
 
 </p>
@@ -43,9 +43,9 @@
 ### Environments/Others I work with:
 
 <p align="justify">
-    <img src="./icons/git-logo-svg.svg" alt="Git" width="40" height="40"/>
-    <img src="./icons/github-logo-svg.svg" alt="GitHub" width="40" height="40"/>
-    <img src="./icons/vscode-logo-svg.svg" alt="Visual Studio Code" width="40" height="40"/>
-    <img src="./icons/adobexd-logo-svg.svg" alt="AdobeXd" width="40" height="40"/>
+    <img src="./icons/git-logo-svg.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./icons/github-logo-svg.svg" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./icons/vscode-logo-svg.svg" alt="Visual Studio Code" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./icons/adobexd-logo-svg.svg" alt="AdobeXd" width="40" height="40"/>&nbsp;&nbsp;
     <img src="./icons/figma-logo-svg.svg" alt="Figma" width="40" height="40"/>
 </p>
