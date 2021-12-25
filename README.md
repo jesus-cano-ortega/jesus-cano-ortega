@@ -21,8 +21,7 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega&card_width=330" alt="GitHub Stats" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-cano-ortega&layout=compact&card_width=275&hide=c,meson,makefile,shell,dockerfile,m4" alt="Top Languages" align="top right" width="330">
 </p>
-
-<!-- 
+ 
 ### Frontend Languages/Frameworks:
 
 <p align="justify">
@@ -52,4 +51,4 @@
     <img src="./icons/vscode-logo-svg.svg" alt="Visual Studio Code" width="40" height="40"/>&nbsp;&nbsp;
     <img src="./icons/adobexd-logo-svg.svg" alt="AdobeXd" width="40" height="40"/>&nbsp;&nbsp;
     <img src="./icons/figma-logo-svg.svg" alt="Figma" width="40" height="40"/>
-</p> -->
+</p>
