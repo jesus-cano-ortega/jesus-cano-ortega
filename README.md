@@ -21,6 +21,7 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega&card_width=330" alt="GitHub Stats" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-cano-ortega&layout=compact&card_width=275&hide=c,meson,makefile,shell,dockerfile,m4" alt="Top Languages" align="top right" width="330">
 </p>
+<br>
  
 ### Frontend Languages/Frameworks:
 
