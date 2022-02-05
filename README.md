@@ -2,7 +2,7 @@
 
 ## About Me
 
-<p align="justify">Hi there! I'm Jesús Cano, a product designer and a user experience enthusiast, who has decided to jump into full stack development. For 16 weeks I will be training as a developer at the 4Geeks Academy Spain bootcamp, where I will learn some of the most demanded technologies in the market such as: JavaScript, React and Python.
+<p align="justify">Hi, I'm Jesús Cano, a design engineer and user experience enthusiast turned fullstack developer. I'm co-founder of Worksut, a start-up based on a job search and recruitment application, where I currently work as CTO managing the different development projects and leading the web and mobile design teams.
 </p>
 
 - <p align="justify">UX and Design Skills: user research, information architecture, user experience, visual design and interface design, wireframing, rapid prototyping, SEO (Web) & ASO (App).
