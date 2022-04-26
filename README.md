@@ -2,13 +2,16 @@
 
 ## About Me
 
-<p align="justify">Hi, I'm Jesús Cano, a design engineer and user experience enthusiast turned developer. I'm co-founder of Worksut, a start-up based on a job search and recruitment application, where I currently work as CTO managing the different development projects and leading the web and mobile design teams.
+<p align="justify">Hello! I'm Jesús Cano, design engineer and project manager turned frontend developer specialized in ReactJs and React Native. I am focused on providing high fidelity solutions and delivery in consideration of the cost and time of the project. 
 </p>
 
-- <p align="justify">UX and Design Skills: user research, information architecture, user experience, visual design and interface design, wireframing, rapid prototyping, SEO (Web) & ASO (App).
+<p align="justify">I'm co-founder of Worksut, a start-up based on a job search and recruitment application, where I currently work as CTO managing the different development projects and leading the web and mobile design teams. 
 </p>
 
-- <p align="justify">Programming Skills: | Frontend: HTML5, CSS3, Sass, Bootstrap, Webpack, JavaScript, ReactJS and React Native | Backend: Python, Flask, NodeJS, MySQL DB, API Rest | Version Control: Git and GitHub.</p>
+- <p align="justify">Programming Skills: | Frontend: HTML5, CSS3, Sass, Bootstrap/Styled-Components, Webpack, JavaScript, ReactJS and React Native, Redux | Backend: Python, Flask, NodeJS, MySQL DB, API Rest | Version Control: Git and GitHub.</p>
+
+- <p align="justify">UX and Design Skills: Figma, Adobe Xd, Photoshop, Illustrator, UX/UI design, user research, information architecture, user experience, visual design and interface design, wireframing, rapid prototyping, SEO (Web) & ASO (App).
+</p>
 
 - <p align="justify">Management Skills: direction and project management, time, scope and cost in traditional methodologies (pmbok) and agile methodologies (scrum).</p>
 
