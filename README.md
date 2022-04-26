@@ -1,4 +1,4 @@
-<img src="./img/linkedin-background.jpg" alt="Header Image">
+<img src="./img/linkedin-background.png" alt="Header Image">
 
 ## About Me
 
