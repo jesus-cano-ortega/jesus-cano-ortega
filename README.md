@@ -5,7 +5,7 @@
 <p align="justify">Hello! I'm Jesús Cano, design engineer and project manager turned frontend developer specialized in ReactJs and React Native. I am focused on providing high fidelity solutions and delivery in consideration of the cost and time of the project. 
 </p>
 
-<p align="justify">I'm co-founder of Worksut, a start-up based on a job search and recruitment application, where I currently work as CTO managing the different development projects and leading the web and mobile design teams. 
+<p align="justify">I'm co-founder of Worksut, a project based on a job search and recruitment application, where I currently work as CTO managing the different development projects and leading the web and mobile design teams. 
 </p>
 
 - <p align="justify">Programming Skills: | Frontend: HTML5, CSS3, Sass, Bootstrap/Styled-Components, Webpack, JavaScript, ReactJS and React Native, Redux | Backend: Python, Flask, NodeJS, MySQL DB, API Rest | Version Control: Git and GitHub.</p>
